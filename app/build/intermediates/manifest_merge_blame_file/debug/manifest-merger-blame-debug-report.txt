@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright (C) 2009 The Android Open Source Project
+4
+5     Licensed under the Apache License, Version 2.0 (the "License");
+6     you may not use this file except in compliance with the License.
+7     You may obtain a copy of the License at
+8
+9          http://www.apache.org/licenses/LICENSE-2.0
+10
+11     Unless required by applicable law or agreed to in writing, software
+12     distributed under the License is distributed on an "AS IS" BASIS,
+13     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14     See the License for the specific language governing permissions and
+15     limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.BluetoothChat"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+22-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:4-43
+23        android:maxSdkVersion="29"
+23-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:14-40
+24        android:minSdkVersion="11"
+24-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:4-43
+25        android:targetSdkVersion="15" />
+25-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:4-43
+26
+27    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+27-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:21:5-74
+27-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:21:22-71
+28    <uses-permission android:name="android.permission.BLUETOOTH" />
+28-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:22:5-68
+28-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:22:22-65
+29    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+29-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:23:5-81
+29-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:23:22-78
+30    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+30-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:24:5-80
+30-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:24:22-77
+31
+32    <application
+32-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:26:5-44:19
+33        android:debuggable="true"
+34        android:icon="@drawable/app_icon"
+34-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:27:18-51
+35        android:label="@string/app_name"
+35-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:26:18-50
+36        android:testOnly="true" >
+37        <activity
+37-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:28:9-35:20
+38            android:name="com.example.android.BluetoothChat.BluetoothChat"
+38-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:28:19-48
+39            android:configChanges="orientation|keyboardHidden"
+39-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:30:19-69
+40            android:label="@string/app_name" >
+40-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:29:19-51
+41            <intent-filter>
+41-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:31:13-34:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:32:17-69
+42-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:32:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:33:17-77
+44-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:33:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:36:9-40:70
+48            android:name="com.example.android.BluetoothChat.DeviceListActivity"
+48-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:37:14-48
+49            android:configChanges="orientation|keyboardHidden"
+49-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:40:17-67
+50            android:label="@string/select_device"
+50-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:38:14-51
+51            android:theme="@android:style/Theme.Holo.Dialog" />
+51-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:39:17-65
+52        <activity android:name="com.example.android.BluetoothChat.MainActivity" />
+52-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:41:9-59
+52-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:41:19-47
+53        <activity android:name="com.example.android.BluetoothChat.FilePicker" />
+53-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:43:9-57
+53-->C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:43:19-45
+54    </application>
+55
+56</manifest>

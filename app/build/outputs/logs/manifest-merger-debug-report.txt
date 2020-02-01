@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:16:1-45:12
+INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:16:1-45:12
+INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:16:1-45:12
+INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:16:1-45:12
+INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:16:1-45:12
+INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:16:1-45:12
+INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:16:1-45:12
+	package
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:17:7-50
+		INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:19:7-32
+		INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:18:7-30
+		INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:4-43
+INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:4-43
+INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:4-43
+INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:4-43
+INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:4-43
+	android:maxSdkVersion
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:14-40
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:4-43
+		INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:4-43
+		INJECTED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:21:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:24:22-77
+application
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:26:5-44:19
+	android:label
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:26:18-50
+	android:icon
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:27:18-51
+activity#com.example.android.BluetoothChat.BluetoothChat
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:28:9-35:20
+	android:label
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:29:19-51
+	android:configChanges
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:30:19-69
+	android:name
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:28:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.example.android.BluetoothChat.DeviceListActivity
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:36:9-40:70
+	android:label
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:38:14-51
+	android:configChanges
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:40:17-67
+	android:theme
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:39:17-65
+	android:name
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:37:14-48
+activity#com.example.android.BluetoothChat.MainActivity
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:41:9-59
+	android:name
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:41:19-47
+activity#com.example.android.BluetoothChat.FilePicker
+ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:43:9-57
+	android:name
+		ADDED from C:\Users\Ankit\AndroidStudioProjects\bkp\feb1\7 pm\BluetoothChat-master1\app\src\main\AndroidManifest.xml:43:19-45

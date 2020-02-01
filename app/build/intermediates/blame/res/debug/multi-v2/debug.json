@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ankit\\AndroidStudioProjects\\bkp\\feb1\\7 pm\\BluetoothChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ankit\\AndroidStudioProjects\\bkp\\feb1\\7 pm\\BluetoothChat-master1\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "6,7,5,4,8,2,3",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "241,285,195,157,330,57,105",
+                        "endColumns": "42,43,44,36,45,46,50",
+                        "endOffsets": "279,324,235,189,371,99,151"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "105,148,192,237,274,320,367",
+                        "endColumns": "42,43,44,36,45,46,50",
+                        "endOffsets": "143,187,232,269,315,362,413"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ankit\\AndroidStudioProjects\\bkp\\feb1\\7 pm\\BluetoothChat-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "418,476",
+                        "endColumns": "57,55",
+                        "endOffsets": "471,527"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ankit\\AndroidStudioProjects\\bkp\\feb1\\7 pm\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,39,22,34,37,38,31,30,21,28,29,20,24,23,25,33,32",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "739,1883,939,1687,1771,1824,1495,1427,863,1297,1358,825,1100,1041,1201,1615,1551",
+                        "endColumns": "56,41,101,56,52,58,55,67,75,60,68,37,100,58,61,71,63",
+                        "endOffsets": "791,1920,1036,1739,1819,1878,1546,1490,934,1353,1422,858,1196,1095,1258,1682,1610"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "532,589,631,733,790,843,902,958,1026,1102,1163,1232,1270,1367,1426,1488,1560",
+                        "endColumns": "56,41,101,56,52,58,55,67,75,60,68,37,96,58,61,71,63",
+                        "endOffsets": "584,626,728,785,838,897,953,1021,1097,1158,1227,1265,1362,1421,1483,1555,1619"
+                    }
+                }
+            ]
+        }
+    ]
+}
